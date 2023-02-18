@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2022",
+    "sourceMap": false,
+    "rootDir": "runner",
+    "outDir": "dist"
+  },
+    "include": [
+      "runner",
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

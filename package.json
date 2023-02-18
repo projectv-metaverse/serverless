@@ -1,0 +1,28 @@
+{
+  "name": "projectv-serverless",
+  "version": "0.1.10",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serverless": "tsc && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/projectv-metaverse/serverless.git"
+  },
+  "keywords": [
+    "serverless",
+    "typescript",
+    "web3",
+    "metaverse"
+  ],
+  "author": "nknight_amamiya <n.knight.pc0627@gmail.com> (https://npm.pkg.github.com/nknight_amamiya)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/projectv-metaverse/serverless/issues"
+  },
+  "homepage": "https://github.com/projectv-metaverse/serverless#readme",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  }
+}
